@@ -26,7 +26,7 @@ Simple parser to convert MBB's PDF monthly current/savings account statement to 
 2. You need to install [Python 3](https://www.python.org/) and its relevant dependencies:
     <details>
       <summary>
-        camelot-py: to statement table from PDF
+        camelot-py: to read statement table from PDF
       </summary>
       
       - Installation via `pip`
