@@ -11,7 +11,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About the Project
 
 Simple parser to convert MBB's PDF monthly current/savings account statement to CSV. 
 
