@@ -83,7 +83,7 @@ Simple parser to convert MBB's PDF monthly current/savings account statement to 
         ```
     </details>
 3. Download your MBB current/savings account statement
-4. Run [mbb_ccstatement_parser.py](mbb_ccstatement_parser.py)
+4. Run [mbb_statement_parser.py](mbb_statement_parser.py)
     ```
     python mbb_statement_parser.py -pw <PDF password> <statement filename>
     ```
