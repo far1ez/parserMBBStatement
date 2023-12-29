@@ -6,6 +6,10 @@
     Parser for MBB monthly Savings/Current Account Statement. Converts PDF statement into CSV. Based on <a href="https://github.com/Rexpert/TNG_Statement_in_CSV">TNG Statement in CSV by Rexpert</a>
   </p>
   <p>
+    Related project:<br />
+    &ensp;<a href="https://github.com/far1ez/parserMBBCCStatement">MBB Credit Card Statement Parser</a>
+  </p>
+  <p>
     <i>Disclaimer: Not extensively tested. Not affliated with MBB.</i>
   </p>
 </div>
@@ -97,7 +101,7 @@ Simple parser to convert MBB's PDF monthly current/savings account statement to 
    ```
    python mbb_statement_parser.py -pw <password> statement1.pdf statement2.pdf
    ```
-2. You can mass convert statements!
+2. You can also mass convert statements!
    ```
    python mbb_statement_parser.py -pw <password> *.pdf
    ```
@@ -111,8 +115,6 @@ Simple parser to convert MBB's PDF monthly current/savings account statement to 
 ## License
 
 Distributed under the MIT License
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
