@@ -19,7 +19,7 @@ Simple parser to convert MBB's PDF monthly current/savings account statement to 
 
 ### Getting Started
 
-1. Clone this repository
+1. Clone this repository or just download the python file
     ```
     git clone https://github.com/far1ez/parserMBBStatement.git
     ```
