@@ -3,7 +3,7 @@
 <div align="center">
   <h3 align="center">MBB Savings/Current Account Statement Parser (PDF to CSV)</h3>
   <p>
-    Parser for MBB monthly Savings/Current Account Statement. Converts PDF statement into CSV. Based on <a href="https://github.com/Rexpert/TNG_Statement_in_CSV">TNG Statement in CSV by Rexpert</a>
+    Parser for Maybank monthly Savings/Current Account Statement. Converts PDF statement into CSV. Based on <a href="https://github.com/Rexpert/TNG_Statement_in_CSV">TNG Statement in CSV by Rexpert</a>
   </p>
   <p>
     Related project:<br />
