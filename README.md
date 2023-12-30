@@ -89,7 +89,7 @@ Simple parser to convert MBB's PDF monthly current/savings account statement to 
 3. Download your MBB current/savings account statement
 4. Run [mbb_statement_parser.py](mbb_statement_parser.py)
     ```
-    python mbb_statement_parser.py -pw <PDF password> <statement filename>
+    python mbb_statement_parser.py --password <PDF password> <statement filename>
     ```
 5. If no errors, the corresponding CSV file will be generated in the same directory
    <i>(parser will overwrite any existing file)</i>
@@ -99,17 +99,17 @@ Simple parser to convert MBB's PDF monthly current/savings account statement to 
 
 1. You can convert more than 1 file at once
    ```
-   python mbb_statement_parser.py -pw <password> statement1.pdf statement2.pdf
+   python mbb_statement_parser.py --password abc123 statement1.pdf statement2.pdf
    ```
 2. You can also mass convert statements!
    ```
-   python mbb_statement_parser.py -pw <password> *.pdf
+   python mbb_statement_parser.py --password abc123 *.pdf
    ```
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
+- [ ] Add Changelog
 
 <!-- LICENSE -->
 ## License
